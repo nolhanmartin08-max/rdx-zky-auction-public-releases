@@ -56,5 +56,14 @@
     "createdAt": "2026-08-25T21:46:35.621401+00:00",
     "duration": "Lifetime",
     "active": true
+  },
+  "ZKY-P6MW-6WQ1-DOBY": {
+    "discordId": "manual_24h_1787776074734",
+    "discordTag": "Acces 24h",
+    "deviceId": "PC-B9LJ1T267-1787776059467",
+    "createdAt": "2026-08-26T20:27:54.734Z",
+    "expiresAt": "2026-08-27T20:27:54.734Z",
+    "duration": "24 heures",
+    "active": true
   }
 }
