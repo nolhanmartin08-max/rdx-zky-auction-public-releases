@@ -65,5 +65,13 @@
     "expiresAt": "2026-08-27T20:27:54.734Z",
     "duration": "24 heures",
     "active": true
+  },
+  "ZKY-MK64-OXYE-UQOY": {
+    "discordId": "manual_lifetime_1788635994825",
+    "discordTag": "Acces Lifetime",
+    "deviceId": "PC-2RFX6Z6OA-1788635901829",
+    "createdAt": "2026-09-05T19:19:54.825Z",
+    "duration": "Lifetime",
+    "active": true
   }
 }
